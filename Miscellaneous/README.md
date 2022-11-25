@@ -1,4 +1,4 @@
-# Web Challenges
+# Web & Steganography Challenges
 
 ### Author:
 
